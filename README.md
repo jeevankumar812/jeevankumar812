@@ -22,7 +22,7 @@ I'm a developer focused on building scalable web applications and solving real-w
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | 🔗 [No Due Management System](https://github.com/KJeevanKumar/no-due-management) | A centralized platform for student-faculty due clearance. | MERN Stack |
-| 📚 [DSA Practice Repository](https://github.com/KJeevanKumar/dsa-jeevankumar) | Categorized and well-commented DSA problems from multiple platforms. | C++, Java, Python |
+| 📚 [DSA Practice Repository](https://github.com/KJeevanKumar/dsa-jeevankumar) | Categorized and well-commented DSA problems from multiple Language. | C++, Java |
 | 🌐 [Portfolio Website](https://github.com/KJeevanKumar/portfolio) | Personal developer portfolio to showcase projects and skills. | React, TailwindCSS |
 
 ---
