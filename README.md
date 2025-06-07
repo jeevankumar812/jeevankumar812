@@ -1,9 +1,7 @@
-<h1 align="center">👋 Hey there, I'm K Jeevan Kumar</h1>
+# 👋 Hi there, I'm K Jeevan Kumar!
 
-<p align="center">
-  🚀 Passionate Full Stack Developer & Aspiring Backend Engineer <br />
+ ## Passionate Full Stack Developer & Aspiring Backend Engineer
   💻 Problem Solver | 🌱 Lifelong Learner | 💬 Tech Explorer
-</p>
 
 ---
 
@@ -14,7 +12,7 @@ I'm a developer focused on building scalable web applications and solving real-w
 - 💼 **CS/IT Enthusiast** with strong fundamentals in **Data Structures & Algorithms**
 - 🏗️ Currently building a **No Due Management System** using MERN
 - 🔍 Exploring DevOps, Cloud, Microservices & System Design
-- 🧠 Practicing DSA on [Leetcode](https://leetcode.com/u/kjeevankumar08/), [GFG](https://www.geeksforgeeks.org/user/jeevankumar08/), and CodeStudio
+- 🧠 Practicing DSA on [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/kjeevankumar08/), [![GeeksforGeeks](https://img.shields.io/badge/GFG-00FF66?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/jeevankumar08/)
 - 📫 Reach me at: **[jeevanjeevan63643@gmail.com](mailto:jeevanjeevan63643@gmail.com)**
 
 ---
