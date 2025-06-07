@@ -36,16 +36,11 @@ I’m a developer focused on building scalable web applications and solving real
 
 ---
 
-## 📈 GitHub Stats
 
-![Jeevan's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=tokyonight&hide_title=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-username&layout=compact&theme=tokyonight)
-
----
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](www.linkedin.com/in/k-jeevan-kumar-5b540b266)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](www.linkedin.com/in/k-jeevan-kumar-5b540b266)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:jeevanjeevan63643@gmail.com)
 
 ---
