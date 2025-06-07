@@ -45,9 +45,8 @@ I’m a developer focused on building scalable web applications and solving real
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://linkedin.com/in/your-link)
-[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:jeevankumar.dev@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?logo=vercel&logoColor=white)](https://your-portfolio-url.com)
+[![LinkedIn](www.linkedin.com/in/k-jeevan-kumar-5b540b266)
+[![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:jeevanjeevan63643@gmail.com)
 
 ---
 
