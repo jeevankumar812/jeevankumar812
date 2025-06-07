@@ -1,5 +1,3 @@
-## Hi there 👋
-
 # 👋 Hi there, I'm K Jeevan Kumar!
 
 🚀 Passionate Full Stack Developer | 💻 Problem Solver | 🌱 Lifelong Learner
@@ -14,7 +12,7 @@ I’m a developer focused on building scalable web applications and solving real
 - 🌐 Building **No Due Management System** using MERN Stack
 - 💡 Exploring DevOps, Cloud & System Design
 - 🛠️ Currently polishing my DSA skills across platforms (Leetcode, GFG, CodeStudio)
-- 📫 Reach me at: **jeevankumar.dev@gmail.com**
+- 📫 Reach me at: **[jeevanjeevan63643@gmail.com](mailto:jeevanjeevan63643@gmail.com)**
 
 ---
 
@@ -22,9 +20,9 @@ I’m a developer focused on building scalable web applications and solving real
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| [No Due Management System](https://github.com/your-username/no-due-management) | A centralized platform for student-faculty due clearance | MERN Stack |
-| [DSA Practice Repository](https://github.com/your-username/dsa-jeevankumar) | Curated list of solved DSA problems with categorized topics | C++, Java, Python |
-| [Portfolio Website](https://github.com/your-username/portfolio) | My developer portfolio to showcase work and skills | React, TailwindCSS |
+| [No Due Management System](https://github.com/KJeevanKumar/no-due-management) | A centralized platform for student-faculty due clearance | MERN Stack |
+| [DSA Practice Repository](https://github.com/KJeevanKumar/dsa-jeevankumar) | Curated list of solved DSA problems with categorized topics | C++, Java, Python |
+| [Portfolio Website](https://github.com/KJeevanKumar/portfolio) | My developer portfolio to showcase work and skills | React, TailwindCSS |
 
 ---
 
@@ -36,15 +34,13 @@ I’m a developer focused on building scalable web applications and solving real
 
 ---
 
-
-
 ## 🌐 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-jeevan-kumar-5b540b266/)
 [![Gmail](https://img.shields.io/badge/Gmail-red?logo=gmail&logoColor=white)](mailto:jeevanjeevan63643@gmail.com)
+[![GeeksforGeeks](https://img.shields.io/badge/GFG-00FF66?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/jeevankumar08/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/kjeevankumar08/)
 
 ---
 
 > *“Code is like humor. When you have to explain it, it’s bad.” — Cory House*
-
-
