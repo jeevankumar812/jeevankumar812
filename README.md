@@ -9,14 +9,13 @@
 
 ## 🧑‍💻 About Me
 
-I'm a dedicated developer passionate about solving real-world problems and building **scalable web applications**. I specialize in both **frontend and backend** development, with a strong focus on the **MERN stack**.
+I'm a developer focused on building scalable web applications and solving real-world problems with code. I enjoy working on both frontend and backend using modern technologies like **MERN Stack**.
 
-- 💼 **CS/IT Enthusiast** with solid understanding of **Data Structures & Algorithms**
-- 🏗️ Currently working on **No Due Management System** (MERN)
-- 📘 Mastering **Backend Engineering**, System Design, and APIs
-- 🔍 Exploring DevOps, Cloud, and Microservices
+- 💼 **CS/IT Enthusiast** with strong fundamentals in **Data Structures & Algorithms**
+- 🏗️ Currently building a **No Due Management System** using MERN
+- 🔍 Exploring DevOps, Cloud, Microservices & System Design
 - 🧠 Practicing DSA on [Leetcode](https://leetcode.com/u/kjeevankumar08/), [GFG](https://www.geeksforgeeks.org/user/jeevankumar08/), and CodeStudio
-- 📫 Let's connect: **[jeevanjeevan63643@gmail.com](mailto:jeevanjeevan63643@gmail.com)**
+- 📫 Reach me at: **[jeevanjeevan63643@gmail.com](mailto:jeevanjeevan63643@gmail.com)**
 
 ---
 
@@ -30,26 +29,26 @@ I'm a dedicated developer passionate about solving real-world problems and build
 
 ---
 
-## 💻 Tech Stack & Tools
+## 💻 What I Bring to the Table
 
-### 👨‍💻 Languages
+### 🧠 Core Skills
+- Strong Problem Solving using DSA
+- Backend Development with Node.js & Express
+- API Design & RESTful Architecture
+- Frontend with React and TailwindCSS
+- MongoDB for scalable NoSQL databases
+- Clean Code & Modular Architecture
+
+### ⚙️ Tools & Technologies
+
+#### 📌 Languages
 ![Languages](https://skillicons.dev/icons?i=js,ts,cpp,java,py,html,css)
 
-### ⚙️ Frameworks & Libraries
+#### 🧰 Frameworks & Libraries
 ![Frameworks](https://skillicons.dev/icons?i=react,nodejs,express,mongodb)
 
-### 🛠 Tools & Platforms
+#### 🔧 Tools & Platforms
 ![Tools](https://skillicons.dev/icons?i=git,github,vscode,postman,vercel)
-
----
-
-## 🎯 Future Goals
-
-> 🌟 **Aim:** To become a skilled and reliable **Backend Developer**, with deep knowledge in API architecture, authentication, database modeling, and system scalability.
-
-- 📌 Learn Advanced Node.js, Redis, and Microservices
-- ⚙️ Build RESTful & GraphQL APIs with proper authentication/authorization
-- ☁️ Explore AWS, Docker, and CI/CD pipelines
 
 ---
 
