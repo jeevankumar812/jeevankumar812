@@ -23,7 +23,8 @@ I'm a developer focused on building scalable web applications and solving real-w
 |--------|-------------|------------|
 | 🔗 [No Due Management System](https://github.com/KJeevanKumar/no-due-management) | A centralized platform for student-faculty due clearance. | MERN Stack |
 | 📚 [DSA Practice Repository](https://github.com/jeevankumar812/DSA-Practice---Jeevan) | Categorized and well-commented DSA problems from multiple Language. | C++, Java |
-| 🔍 [Advanced Java]() |  Java projects using JDBC, Servlets, and Swing to create real-world applications. | Java |
+| 🔍 [Advanced Java](https://github.com/jeevankumar812/Advanced-Java) |  Java projects using JDBC, Servlets, and Swing to create real-world applications. | Java |
+| ✨ [Product Management System]() | A Java project to add, update, and manage products using a database. | Java |
 | 🌐 [Portfolio Website](https://github.com/KJeevanKumar/portfolio) | Personal developer portfolio to showcase projects and skills. | React, TailwindCSS |
 
 ---
