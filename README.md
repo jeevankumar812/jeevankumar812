@@ -22,12 +22,12 @@ I'm a developer focused on building scalable web applications and solving real-w
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | 🔗 [No Due Management System](https://github.com/KJeevanKumar/no-due-management) | A centralized platform for student-faculty due clearance. | MERN Stack |
-| 📚 [DSA Practice Repository](https://github.com/jeevankumar812/DSA-Practice---Jeevan) | Categorized and well-commented DSA problems from multiple Language. | C++, Java |
-| 🔍 [Advanced Java](https://github.com/jeevankumar812/Advanced-Java) |  Java projects using JDBC, Servlets, and Swing to create real-world applications. | Java |
+| 📘 [AssignmentHub](https://github.com/jeevankumar812/AssignmentHub) | A MERN stack-based assignment submission & verification system for Cloud Computing (BCS601). | MERN Stack |
+| 📚 [DSA Practice Repository](https://github.com/jeevankumar812/DSA-Practice---Jeevan) | Categorized and well-commented DSA problems from multiple languages. | C++, Java |
+| 🔍 [Advanced Java](https://github.com/jeevankumar812/Advanced-Java) | Java projects using JDBC, Servlets, and Swing to create real-world applications. | Java |
 | ✨ [Product Management System](https://github.com/jeevankumar812/Product_Management_System) | A Java project to add, update, and manage products using a database. | Java |
 | 🌐 [Portfolio Website](https://github.com/KJeevanKumar/portfolio) | Personal developer portfolio to showcase projects and skills. | React, TailwindCSS |
 
----
 
 ## 💻 What I Bring to the Table
 
