@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Person coding on laptop" width="500"/>
+</p>
+
+
+
 # 👋 Hi there, I'm K Jeevan Kumar!
 
  ## Passionate Full Stack Developer & Aspiring Backend Engineer
