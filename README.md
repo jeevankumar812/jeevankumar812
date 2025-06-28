@@ -1,22 +1,21 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding boy with unique vibe" width="450"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding boy with hacker vibe" width="450"/>
 </p>
-
 
 # 👋 Hi there, I'm K Jeevan Kumar!
 
- ## Passionate Full Stack Developer & Aspiring Backend Engineer
-  💻 Problem Solver | 🌱 Lifelong Learner | 💬 Tech Explorer
+## ⚡ Passionate Full Stack Developer & Aspiring Backend Engineer
+💻 Creative Coder | 🔍 Problem Solver | 🛠 Tech Explorer with a Hacker's Mindset
 
 ---
 
-## 🧑‍💻 About Me
+## 🌟 Overview
 
-I'm a developer focused on building scalable web applications and solving real-world problems with code. I enjoy working on both frontend and backend using modern technologies like **MERN Stack**.
+Welcome to my profile! I thrive on building scalable applications and solving complex problems with a mix of precision and creativity. I believe in coding **efficiently, fearlessly, and with a unique vibe** — always pushing beyond the ordinary.
 
-- 💼 **CS/IT Enthusiast** with strong fundamentals in **Data Structures & Algorithms**
-- 🏗️ Currently building a **No Due Management System** using MERN
-- 🔍 Exploring DevOps, Cloud, Microservices & System Design
+- 🚀 **CS/IT Enthusiast** with a solid foundation in **Data Structures & Algorithms**
+- 🏗️ Currently developing a **No Due Management System** with MERN Stack
+- 🔎 Diving into DevOps, Cloud, Microservices & System Design
 - 🧠 Practicing DSA on [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/kjeevankumar08/), [![GeeksforGeeks](https://img.shields.io/badge/GFG-00FF66?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/jeevankumar08/)
 - 📫 Reach me at: **[jeevanjeevan63643@gmail.com](mailto:jeevanjeevan63643@gmail.com)**
 
@@ -27,22 +26,23 @@ I'm a developer focused on building scalable web applications and solving real-w
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
 | 🔗 [No Due Management System](https://github.com/KJeevanKumar/no-due-management) | A centralized platform for student-faculty due clearance. | MERN Stack |
-| 📘 [AssignmentHub](https://github.com/jeevankumar812/AssignmentHub) | A MERN stack-based assignment submission & verification system for Cloud Computing (BCS601). | MERN Stack |
-| 📚 [DSA Practice Repository](https://github.com/jeevankumar812/DSA-Practice---Jeevan) | Categorized and well-commented DSA problems from multiple languages. | C++, Java |
-| 🔍 [Advanced Java](https://github.com/jeevankumar812/Advanced-Java) | Java projects using JDBC, Servlets, and Swing to create real-world applications. | Java |
-| ✨ [Product Management System](https://github.com/jeevankumar812/Product_Management_System) | A Java project to add, update, and manage products using a database. | Java |
-| 🌐 [Portfolio Website](https://github.com/KJeevanKumar/portfolio) | Personal developer portfolio to showcase projects and skills. | React, TailwindCSS |
+| 📘 [AssignmentHub](https://github.com/jeevankumar812/AssignmentHub) | A MERN stack-based assignment submission & verification system. | MERN Stack |
+| 📚 [DSA Practice Repository](https://github.com/jeevankumar812/DSA-Practice---Jeevan) | Categorized DSA problems with clean solutions. | C++, Java |
+| 🔍 [Advanced Java](https://github.com/jeevankumar812/Advanced-Java) | Projects using JDBC, Servlets, Swing. | Java |
+| ✨ [Product Management System](https://github.com/jeevankumar812/Product_Management_System) | Java-based product management with DB. | Java |
+| 🌐 [Portfolio Website](https://github.com/KJeevanKumar/portfolio) | Personal developer portfolio. | React, TailwindCSS |
 
+---
 
 ## 💻 What I Bring to the Table
 
 ### 🧠 Core Skills
-- Strong Problem Solving using DSA
-- Backend Development with Node.js & Express
-- API Design & RESTful Architecture
+- Deep Problem Solving using DSA
+- Backend Development (Node.js & Express)
+- RESTful API Design & Architecture
 - Frontend with React and TailwindCSS
-- MongoDB for scalable NoSQL databases
-- Clean Code & Modular Architecture
+- MongoDB for scalable data solutions
+- Clean Code & Modular Design
 
 ### ⚙️ Tools & Technologies
 
