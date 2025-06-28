@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding boy with hacker vibe" width="450"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" alt="Person coding with GitHub vibe" width="450"/>
 </p>
 
 # 👋 Hi there, I'm K Jeevan Kumar!
