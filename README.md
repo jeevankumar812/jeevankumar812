@@ -1,7 +1,7 @@
 
 # 👋 Hi there, I'm K Jeevan Kumar! <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Young adult coding on laptop" width="200"/>
 
-## ⚡ Passionate Full Stack Developer & Aspiring Backend Engineer  
+## ⚡Aspiring Backend Engineer  
 💻 Creative Coder | 🔍 Problem Solver | 🛠 Tech Explorer
 
 --- 
