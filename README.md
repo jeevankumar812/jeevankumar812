@@ -1,5 +1,5 @@
 
-# 👋 Hi there, I'm K Jeevan Kumar! <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Young adult coding on laptop" width="200"/>
+# 👋 Hi there, I'm K Jeevan Kumar! <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Young adult coding on laptop" width="300"/>
 
 ## ⚡Aspiring Backend Engineer  
 💻 Creative Coder | 🔍 Problem Solver | 🛠 Tech Explorer
