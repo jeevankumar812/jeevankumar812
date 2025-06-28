@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Young adult coding on laptop" width="400"/>
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif" alt="Confident young developer coding" width="400"/>
 </p>
 
 
