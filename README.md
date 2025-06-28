@@ -1,7 +1,6 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/IeRdg7k0nS3gZT8W5x/giphy.gif" alt="Hacker typing" width="500"/>
+  <img src="https://media.giphy.com/media/Y4ak9Ki2GZCbJxAnJD/giphy.gif" alt="Boy coding on laptop" width="400"/>
 </p>
-
 
 # 👋 Hi there, I'm K Jeevan Kumar!
 
