@@ -1,21 +1,10 @@
 
-<table>
-  <tr>
-    <td>
+# 👋 Hi there, I'm K Jeevan Kumar! <img align="right" src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Young adult coding on laptop" width="200"/>
 
-# 👋 Hi there, I'm K Jeevan Kumar!
+## ⚡ Passionate Full Stack Developer & Aspiring Backend Engineer  
+💻 Creative Coder | 🔍 Problem Solver | 🛠 Tech Explorer
 
-## ⚡ Passionate Full Stack Developer & Aspiring Backend Engineer
-💻 Creative Coder | 🔍 Problem Solver | 🛠 Tech Explorer with a Hacker's Mindset
-
-</td>
-    <td>
-      <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" alt="Young adult coding on laptop" width="250"/>
-    </td>
-  </tr>
-</table>
-
-
+--- 
 ## 🌟 Overview
 
 Welcome to my profile! I thrive on building scalable applications and solving complex problems with a mix of precision and creativity. I believe in coding **efficiently, fearlessly, and with a unique vibe** — always pushing beyond the ordinary.
