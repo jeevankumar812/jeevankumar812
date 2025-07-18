@@ -9,6 +9,8 @@
 --- 
 ## 🌟 Overview
 
+
+🔗 **[View My Portfolio](https://portfolio-silk-zeta-69.vercel.app)**
 Welcome to my profile! I thrive on building scalable applications and solving complex problems with a mix of precision and creativity. I believe in coding **efficiently, fearlessly, and with a unique vibe** — always pushing beyond the ordinary.
 
 - 🚀 **CS/IT Enthusiast** with a solid foundation in **Data Structures & Algorithms**  
