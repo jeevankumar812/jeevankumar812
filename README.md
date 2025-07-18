@@ -14,8 +14,7 @@ Welcome to my profile! I thrive on building scalable applications and solving co
 - 🚀 **CS/IT Enthusiast** with a solid foundation in **Data Structures & Algorithms**  
 - 🏗️ Currently building a **No Due Management System** using the **MERN Stack**  
 - 💻 Passionate **MERN Developer** focused on **API design** & **clean architecture**  
-- 🧠 Practicing DSA on [![GeeksforGeeks](https://img.shields.io/badge/GFG-00FF66?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/jeevankumar08/) and
-- [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/kjeevankumar08/)
+- 🧠 Practicing DSA on [![GeeksforGeeks](https://img.shields.io/badge/GFG-00FF66?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/jeevankumar08/) and  [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/kjeevankumar08/)
 - 📫 Reach me at: **[jeevanjeevan63643@gmail.com](mailto:jeevanjeevan63643@gmail.com)**  
 
 ---
