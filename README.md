@@ -28,7 +28,8 @@ Welcome to my profile! I thrive on building scalable applications and solving co
 | 📚 [DSA Practice Repository](https://github.com/jeevankumar812/DSA-Practice---Jeevan) | Categorized DSA problems with clean solutions. | C++, Java |
 | 🔍 [Advanced Java](https://github.com/jeevankumar812/Advanced-Java) | Projects using JDBC, Servlets, Swing. | Java |
 | ✨ [Product Management System](https://github.com/jeevankumar812/Product_Management_System) | Java-based product management with DB. | Java |
-| 🌐 [Portfolio Website](https://github.com/KJeevanKumar/portfolio) | Personal developer portfolio. | React, TailwindCSS |
+| 🌐 [Portfolio Website](https://github.com/jeevankumar812/Portfolio) | Personal developer portfolio. | React, TailwindCSS |
+
 
 ---
 
