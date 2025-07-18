@@ -3,7 +3,7 @@
 
 
 
-## ⚡Aspiring Backend Engineer  
+## ⚡MERN Developer 
 💻 Creative Coder | 🔍 Problem Solver | 🛠 Tech Explorer
 
 --- 
