@@ -43,7 +43,7 @@ I believe in coding **efficiently, fearlessly, and with a unique vibe** — alwa
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🔗 [No Due Management System](https://github.com/KJeevanKumar/no-due-management) | Hotel Booking Platform. | MERN Stack |
+| 🔗 [Hotel Booking Platform](https://github.com/jeevankumar812/Hotel-Booking-Platform) | Hotel Booking Platform. | MERN Stack |
 | 📘 [AssignmentHub](https://github.com/jeevankumar812/AssignmentHub) | A MERN stack-based assignment submission & verification system. | MERN Stack |
 | 📚 [DSA Practice Repository](https://github.com/jeevankumar812/DSA-Practice---Jeevan) | Categorized DSA problems with clean solutions. | C++, Java |
 | 🔍 [Advanced Java](https://github.com/jeevankumar812/Advanced-Java) | Projects using JDBC, Servlets, Swing. | Java |
