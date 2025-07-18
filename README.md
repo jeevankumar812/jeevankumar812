@@ -23,8 +23,7 @@ I believe in coding **efficiently, fearlessly, and with a unique vibe** — alwa
 
 ## 🚀 About Me
 - **CS/IT Enthusiast** with a strong foundation in **Data Structures & Algorithms**  
-- **MERN Developer** passionate about **API design**, **clean architecture**, and building impactful web applications  
-- Currently working on a **No Due Management System** using the **MERN Stack**  
+- **MERN Developer** passionate about **API design**, **clean architecture**, and building impactful web applications   
 - Consistently improving my problem-solving skills on  
   [![GeeksforGeeks](https://img.shields.io/badge/GFG-00FF66?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/jeevankumar08/)  
   [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/kjeevankumar08/)  
@@ -44,7 +43,7 @@ I believe in coding **efficiently, fearlessly, and with a unique vibe** — alwa
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🔗 [No Due Management System](https://github.com/KJeevanKumar/no-due-management) | A centralized platform for student-faculty due clearance. | MERN Stack |
+| 🔗 [No Due Management System](https://github.com/KJeevanKumar/no-due-management) | Hotel Booking Platform. | MERN Stack |
 | 📘 [AssignmentHub](https://github.com/jeevankumar812/AssignmentHub) | A MERN stack-based assignment submission & verification system. | MERN Stack |
 | 📚 [DSA Practice Repository](https://github.com/jeevankumar812/DSA-Practice---Jeevan) | Categorized DSA problems with clean solutions. | C++, Java |
 | 🔍 [Advanced Java](https://github.com/jeevankumar812/Advanced-Java) | Projects using JDBC, Servlets, Swing. | Java |
