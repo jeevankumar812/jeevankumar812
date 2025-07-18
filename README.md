@@ -9,15 +9,34 @@
 --- 
 ## 🌟 Overview
 
+# 🌟 Personal Portfolio
 
-🔗 **[View My Portfolio](https://portfolio-silk-zeta-69.vercel.app)**
-Welcome to my profile! I thrive on building scalable applications and solving complex problems with a mix of precision and creativity. I believe in coding **efficiently, fearlessly, and with a unique vibe** — always pushing beyond the ordinary.
+🔗 **[👉 View My Portfolio](https://portfolio-silk-zeta-69.vercel.app)**
 
-- 🚀 **CS/IT Enthusiast** with a solid foundation in **Data Structures & Algorithms**  
-- 🏗️ Currently building a **No Due Management System** using the **MERN Stack**  
-- 💻 Passionate **MERN Developer** focused on **API design** & **clean architecture**  
-- 🧠 Practicing DSA on [![GeeksforGeeks](https://img.shields.io/badge/GFG-00FF66?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/jeevankumar08/) and  [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/kjeevankumar08/)
-- 📫 Reach me at: **[jeevanjeevan63643@gmail.com](mailto:jeevanjeevan63643@gmail.com)**  
+---
+
+### 👋 Welcome to my profile!  
+I thrive on building **scalable applications** and solving complex problems with **precision & creativity**.  
+I believe in coding **efficiently, fearlessly, and with a unique vibe** — always pushing beyond the ordinary.  
+
+---
+
+## 🚀 About Me
+- **CS/IT Enthusiast** with a strong foundation in **Data Structures & Algorithms**  
+- **MERN Developer** passionate about **API design**, **clean architecture**, and building impactful web applications  
+- Currently working on a **No Due Management System** using the **MERN Stack**  
+- Consistently improving my problem-solving skills on  
+  [![GeeksforGeeks](https://img.shields.io/badge/GFG-00FF66?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/jeevankumar08/)  
+  [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/kjeevankumar08/)  
+
+---
+
+## 📫 Contact
+**Email:** [jeevanjeevan63643@gmail.com](mailto:jeevanjeevan63643@gmail.com)  
+
+---
+
+
 
 ---
 
