@@ -24,9 +24,7 @@ I believe in coding **efficiently, fearlessly, and with a unique vibe** — alwa
 ## 🚀 About Me
 - **CS/IT Enthusiast** with a strong foundation in **Data Structures & Algorithms**  
 - **MERN Developer** passionate about **API design**, **clean architecture**, and building impactful web applications   
-- Consistently improving my problem-solving skills on  
-  [![GeeksforGeeks](https://img.shields.io/badge/GFG-00FF66?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/jeevankumar08/)  
-  [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/kjeevankumar08/)  
+- Consistently improving my problem-solving skills on  [![GeeksforGeeks](https://img.shields.io/badge/GFG-00FF66?style=flat&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/jeevankumar08/) and [![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=flat&logo=leetcode&logoColor=white)](https://leetcode.com/u/kjeevankumar08/)  
 
 ---
 
