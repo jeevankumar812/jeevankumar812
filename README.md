@@ -41,7 +41,8 @@ I believe in coding **efficiently, fearlessly, and with a unique vibe** — alwa
 
 | Project | Description | Tech Stack |
 |--------|-------------|------------|
-| 🔗 [No Due Project](https://github.com/jeevankumar812/No-Due-Project) | Digital No Due Certificate system with faculty approvals | MERN Stack |
+| 🏫 [No Due Project](https://github.com/jeevankumar812/No-Due-Project) | Digital No Due Certificate system with faculty approvals | MERN Stack |
+| ✍️ [Blog Website](https://github.com/jeevankumar812/Blog-Website) → [Live Preview 🌐](https://blog-website-frontend-vro1.onrender.com/) | Create, read, and comment on blogs with a sleek UI | MERN Stack |
 | 🔗 [Hotel Booking Platform](https://github.com/jeevankumar812/Hotel-Booking-Platform) | Book your stay easily and enjoy a comfortable experience | MERN Stack |
 | 📘 [AssignmentHub](https://github.com/jeevankumar812/AssignmentHub) | A MERN stack-based assignment submission & verification system. | MERN Stack |
 | 📚 [DSA Practice Repository](https://github.com/jeevankumar812/DSA-Practice---Jeevan) | Categorized DSA problems with clean solutions. | C++, Java |
