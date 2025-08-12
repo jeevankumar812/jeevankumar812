@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/I0J7v4Jz4y9J5EJfMB/giphy.gif" alt="Luffy GIF" height="230px" width="230px" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3h2am8wc3ZyMG9uNWx5d2NpaXJ5b3ltcmJyaHNuOGE4aHBub3oydiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/ACz3lPj2g1jvO/giphy.gif" alt="Luffy Gear 5 GIF" height="230px" width="230px" />
 </p>
 
 <h1 align="center">👋 Hi there, I'm K Jeevan Kumar!</h1>
