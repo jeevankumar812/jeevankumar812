@@ -20,7 +20,7 @@
 
 <br/>
 
-[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-00FF41?style=for-the-badge&logoColor=black)](https://portfolio-silk-zeta-69.vercel.app)
+[![Portfolio](https://img.shields.io/badge/◈_PORTFOLIO-00FF41?style=for-the-badge&logoColor=black)](https://portfolio-luffy-three.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/k-jeevan-kumar-5b540b266/)
 [![Gmail](https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jeevanjeevan63643@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LEETCODE-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/kjeevankumar08/)
@@ -42,7 +42,7 @@
   Focus    : Scalable Web Apps | Clean Architecture | API Design
   Passion  : Building things that matter, one commit at a time
 
-  Status   : Open to opportunities ✅
+  Status   : Open to opportunities 
   Quote    : "Code is like humor. When you have to explain it, it's bad."
                                                          — Cory House
 ```
@@ -151,7 +151,7 @@ drwxr-xr-x  tools/
 │  LeetCode     [growing] Active      🟢 Online       │
 │  GeeksforGeeks[growing] Active      🟢 Online       │
 │                                                     │
-│  Streak: ON 🔥   Daily Goal: ACTIVE ✅              │
+│  Streak: ON    Daily Goal: ACTIVE                   │
 └─────────────────────────────────────────────────────┘
 ```
 
