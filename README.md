@@ -77,33 +77,70 @@ drwxr-xr-x  tools/
 -rw-r--r--  system_design.md      █████████████░░░░░░░   65%
 ```
 
+## 💻 Tech Stack
+
 ### 📌 Languages
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,cpp,java,py,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,py,html,css,bash&theme=dark" />
 </p>
 
-### 🧰 Frameworks & Libraries
+### 🚀 Frontend
 <p>
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap&theme=dark" />
 </p>
 
-### 🗄️ Databases & Search
+### ⚙️ Backend
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,elasticsearch,docker&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,maven,npm&theme=dark" />
 </p>
 
-### 🤖 AI & LLM
+### 🗄️ Databases
 <p>
-  <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge&logo=openai&logoColor=white" />
-  <img src="https://img.shields.io/badge/Oracle%20AI%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" />
+  <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-### 🔧 Tools & Platforms
+### 🔍 Search & Vector Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel&theme=dark" />
-  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" />
+  <img src="https://img.shields.io/badge/Oracle%20AI%20Vector%20Search-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+  <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge&logo=openai&logoColor=white"/>
 </p>
----
+
+### 🤖 AI / Machine Learning
+<p>
+  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Generative%20AI-0EA5E9?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-9333EA?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embeddings-10B981?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+</p>
+
+### ☁️ DevOps & Cloud
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,ubuntu,githubactions&theme=dark" />
+</p>
+
+### 🛠️ Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma&theme=dark" />
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+
+### 📚 Concepts
+<p>
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/OAuth2-3B82F6?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Microservices-FF6B35?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/System%20Design-1F2937?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/DSA-2563EB?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MVC-059669?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MERN%20Stack-13AA52?style=for-the-badge"/>
+</p>
 
 ## `$ cat projects.json`
 
