@@ -77,69 +77,89 @@ drwxr-xr-x  tools/
 -rw-r--r--  system_design.md      █████████████░░░░░░░   65%
 ```
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I%27m+Jeevan+Kumar;Front-End+Developer;React+%2B+UI%2FUX+Animation+Enthusiast;Building+Interactive+Web+Experiences&font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=60" />
+</h1>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
+</p>
+
+---
+
 ## 💻 Tech Stack
 
-### 📌 Languages
-<p>
+### Languages
+<p align="center">
   <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,py,html,css,bash&theme=dark" />
 </p>
 
-### 🚀 Frontend
-<p>
+### Frontend
+<p align="center">
   <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap&theme=dark" />
 </p>
 
-### ⚙️ Backend
-<p>
+### Backend
+<p align="center">
   <img src="https://skillicons.dev/icons?i=nodejs,express,spring,maven,npm&theme=dark" />
 </p>
 
-### 🗄️ Databases
-<p>
+### Databases
+<p align="center">
   <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" />
-  <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
 </p>
 
-### 🔍 Search & Vector Databases
-<p>
+### Search & Vector Databases
+<p align="center">
   <img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" />
-  <img src="https://img.shields.io/badge/Oracle%20AI%20Vector%20Search-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge&logo=openai&logoColor=white"/>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Oracle%20AI%20Vector%20Search-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+  <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge&logo=openai&logoColor=white" />
 </p>
 
-### 🤖 AI / Machine Learning
-<p>
-  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Generative%20AI-0EA5E9?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-9333EA?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Embeddings-10B981?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white"/>
+### AI / Machine Learning
+<p align="center">
+  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Generative%20AI-0EA5E9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-9333EA?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Embeddings-10B981?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
 </p>
 
-### ☁️ DevOps & Cloud
-<p>
+### DevOps & Cloud
+<p align="center">
   <img src="https://skillicons.dev/icons?i=docker,nginx,linux,ubuntu,githubactions&theme=dark" />
 </p>
 
-### 🛠️ Tools
-<p>
+### Tools
+<p align="center">
   <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma&theme=dark" />
-  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 </p>
 
-### 📚 Concepts
-<p>
-  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OAuth2-3B82F6?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Microservices-FF6B35?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/System%20Design-1F2937?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/DSA-2563EB?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MVC-059669?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/MERN%20Stack-13AA52?style=for-the-badge"/>
+### Concepts
+<p align="center">
+  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/OAuth2-3B82F6?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Microservices-FF6B35?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/System%20Design-1F2937?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/DSA-2563EB?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MVC-059669?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/MERN%20Stack-13AA52?style=for-the-badge" />
+</p>
+
+---
+
+## ✨ Animated touch
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com/?lines=React+UI+Engineer;CSS+Animation+Builder;API+Integrator;Clean+Code+Lover&font=Fira+Code&size=22&pause=900&color=F97316&center=true&vCenter=true&width=700&height=50" />
 </p>
 
 ## `$ cat projects.json`
