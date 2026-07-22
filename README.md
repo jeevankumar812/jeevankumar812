@@ -31,7 +31,7 @@
 ---
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43S/giphy.gif" alt="Luffy GIF" width="300" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500">
 </p>
 
 ## 🐍 Contribution Snake
