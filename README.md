@@ -85,64 +85,80 @@ drwxr-xr-x  tools/
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
-# ⚡ Tech Stack
+## 💻 Tech Stack
 
-<div align="center">
+```console
+jeevan@github:~$ tech-stack --show
 
-<table>
-<tr>
-<td width="50%">
+📦 Languages
+```
+<p>
+  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,py,html,css,bash&theme=dark" />
+</p>
 
-### 💻 Languages
-<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,html,css,bash&theme=dark"/>
+```console
+📦 Frontend
+```
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,vite,tailwind,bootstrap&theme=dark" />
+</p>
 
-### 🎨 Frontend
-<img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,bootstrap&theme=dark"/>
+```console
+📦 Backend
+```
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,maven,npm&theme=dark" />
+</p>
 
-### ⚙️ Backend
-<img src="https://skillicons.dev/icons?i=nodejs,express,spring,maven,npm&theme=dark"/>
+```console
+📦 Databases
+```
+<p>
+  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" />
+  <img height="48" src="https://cdn.simpleicons.org/oracle/F80000"/>
+</p>
 
-### 🗄️ Databases
-<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark"/>
+```console
+📦 Search & Vector Database
+```
+<p>
+  <img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" />
+  <img height="48" src="https://cdn.simpleicons.org/oracle/F80000"/>
+  <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge"/>
+</p>
 
-<img src="https://img.shields.io/badge/Oracle_AI_Database-F80000?style=flat-square&logo=oracle&logoColor=white"/>
+```console
+📦 AI Engineering
+```
+<p>
+  <img height="48" src="https://cdn.simpleicons.org/openai/FFFFFF"/>
+  <img height="48" src="https://cdn.simpleicons.org/huggingface/FFD21E"/>
+  <img height="48" src="https://cdn.simpleicons.org/google/4285F4"/>
+  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Embeddings-10B981?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-9333EA?style=for-the-badge"/>
+</p>
 
-</td>
+```console
+📦 DevOps & Cloud
+```
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,linux,ubuntu,nginx,githubactions&theme=dark" />
+</p>
 
-<td width="50%">
+```console
+📦 Development Tools
+```
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma&theme=dark" />
+  <img height="48" src="https://cdn.simpleicons.org/dbeaver/372923"/>
+</p>
 
-``
-$ whoami
-
-AI Engineer
-Backend Developer
-MERN Stack Developer
-
-----------------------------
-
-✓ REST APIs
-✓ JWT Authentication
-✓ OAuth 2.0
-✓ Docker
-✓ RAG
-✓ LLM
-✓ Oracle AI Vector Search
-✓ Elasticsearch
-✓ Embeddings
-✓ Prompt Engineering
-✓ Microservices
-✓ System Design
-✓ Git & GitHub
-
-Status : Building Awesome Projects 🚀
+```console
+jeevan@github:~$ echo 
 
 
-</td>
-</tr>
-</table>
-
-</div>
-
+```
 
 
 ## `$ cat projects.json`
