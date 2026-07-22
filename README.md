@@ -31,7 +31,7 @@
 ---
 
 <p align="center">
-  <img src="https://gifs.alphacoders.com/gifs/view/219517" alt="Luffy animated gif" />
+  <img src="https://media.giphy.com/media/3oKIPwoeGErMmaI43S/giphy.gif" alt="Luffy GIF" width="300" />
 </p>
 
 ## 🐍 Contribution Snake
