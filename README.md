@@ -87,11 +87,22 @@ drwxr-xr-x  tools/
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb&theme=dark" />
 </p>
 
-### 🔧 Tools & Platforms
+### 🗄️ Databases & Search
 <p>
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,elasticsearch,docker&theme=dark" />
 </p>
 
+### 🤖 AI & LLM
+<p>
+  <img src="https://img.shields.io/badge/RAG-0A66C2?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Oracle%20AI%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
+</p>
+
+### 🔧 Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,postman,vercel&theme=dark" />
+  <img src="https://img.shields.io/badge/DBeaver-372923?style=for-the-badge&logo=dbeaver&logoColor=white" />
+</p>
 ---
 
 ## `$ cat projects.json`
