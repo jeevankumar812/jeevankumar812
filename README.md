@@ -81,9 +81,7 @@ drwxr-xr-x  tools/
   <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I%27m+Jeevan+Kumar;Front-End+Developer;React+%2B+UI%2FUX+Animation+Enthusiast;Building+Interactive+Web+Experiences&font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=60" />
 </h1>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
+
 
 ## 💻 Tech Stack
 
