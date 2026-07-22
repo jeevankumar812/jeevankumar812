@@ -16,7 +16,7 @@
 ╚══════════════════════════════════════════════════════════════════╝
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=00FF41&center=true&vCenter=true&multiline=false&width=600&lines=MERN+Stack+Developer+%F0%9F%9A%80;Full+Stack+Problem+Solver+%F0%9F%94%A5;Clean+Code+Architect+%F0%9F%8F%97%EF%B8%8F;DSA+Enthusiast+%F0%9F%A7%A0;Always+Learning%2C+Always+Building+%E2%9A%A1" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=850&lines=AI+%7C+LLMs+%7C+RAG;Full+Stack+Developer;System+Design+Enthusiast;DSA+Enthusiast;Building+Scalable+Applications" alt="Typing SVG" />
 
 <br/>
 
@@ -77,9 +77,6 @@ drwxr-xr-x  tools/
 -rw-r--r--  system_design.md      █████████████░░░░░░░   65%
 ```
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=Hi+I%27m+Jeevan+Kumar;Front-End+Developer;React+%2B+UI%2FUX+Animation+Enthusiast;Building+Interactive+Web+Experiences&font=Fira+Code&size=28&pause=1000&color=36BCF7&center=true&vCenter=true&width=900&height=60" />
-</h1>
 
 
 
