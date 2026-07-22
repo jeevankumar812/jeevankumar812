@@ -85,82 +85,65 @@ drwxr-xr-x  tools/
   <img src="https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=tokyonight&no-frame=true&row=1&column=7" />
 </p>
 
----
+# ⚡ Tech Stack
 
-## 💻 Tech Stack
+<div align="center">
 
-### Languages
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,js,ts,py,html,css,bash&theme=dark" />
-</p>
+<table>
+<tr>
+<td width="50%">
 
-### Frontend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap&theme=dark" />
-</p>
+### 💻 Languages
+<img src="https://skillicons.dev/icons?i=cpp,java,js,ts,python,html,css,bash&theme=dark"/>
 
-### Backend
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,spring,maven,npm&theme=dark" />
-</p>
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,vite,nextjs,tailwind,bootstrap&theme=dark"/>
 
-### Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle%20Database-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-</p>
+### ⚙️ Backend
+<img src="https://skillicons.dev/icons?i=nodejs,express,spring,maven,npm&theme=dark"/>
 
-### Search & Vector Databases
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=elasticsearch&theme=dark" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Oracle%20AI%20Vector%20Search-F80000?style=for-the-badge&logo=oracle&logoColor=white" />
-  <img src="https://img.shields.io/badge/RAG-2563EB?style=for-the-badge&logo=openai&logoColor=white" />
-</p>
+### 🗄️ Databases
+<img src="https://skillicons.dev/icons?i=mongodb,postgres,mysql&theme=dark"/>
 
-### AI / Machine Learning
-<p align="center">
-  <img src="https://img.shields.io/badge/LLM-412991?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Generative%20AI-0EA5E9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Prompt%20Engineering-9333EA?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Embeddings-10B981?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
-  <img src="https://img.shields.io/badge/Groq-F55036?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
+<img src="https://img.shields.io/badge/Oracle_AI_Database-F80000?style=flat-square&logo=oracle&logoColor=white"/>
 
-### DevOps & Cloud
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=docker,nginx,linux,ubuntu,githubactions&theme=dark" />
-</p>
+</td>
 
-### Tools
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman,vercel,figma&theme=dark" />
-</p>
+<td width="50%">
 
-### Concepts
-<p align="center">
-  <img src="https://img.shields.io/badge/REST%20API-009688?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/OAuth2-3B82F6?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Microservices-FF6B35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/System%20Design-1F2937?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/DSA-2563EB?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MVC-059669?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/MERN%20Stack-13AA52?style=for-the-badge" />
-</p>
+``
+$ whoami
 
----
+AI Engineer
+Backend Developer
+MERN Stack Developer
 
-## ✨ Animated touch
+----------------------------
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?lines=React+UI+Engineer;CSS+Animation+Builder;API+Integrator;Clean+Code+Lover&font=Fira+Code&size=22&pause=900&color=F97316&center=true&vCenter=true&width=700&height=50" />
-</p>
+✓ REST APIs
+✓ JWT Authentication
+✓ OAuth 2.0
+✓ Docker
+✓ RAG
+✓ LLM
+✓ Oracle AI Vector Search
+✓ Elasticsearch
+✓ Embeddings
+✓ Prompt Engineering
+✓ Microservices
+✓ System Design
+✓ Git & GitHub
+
+Status : Building Awesome Projects 🚀
+
+
+</td>
+</tr>
+</table>
+
+</div>
+
+
 
 ## `$ cat projects.json`
 
