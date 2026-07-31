@@ -70,6 +70,36 @@
 
 ---
 
+
+## `$ cat projects.json`
+
+```json
+{
+  "projects": [
+```
+
+<div align="center">
+
+| Project | Documentation |
+|:--------|:--------------|
+| 🏫 **No Due Project** | [`01-No-Due-Project/`](./01-No-Due-Project/) • [`Frontend`](./01-No-Due-Project/frontend/) • [`Backend`](./01-No-Due-Project/backend/) |
+| ✍️ **Blog Website** | [`02-Blog-Website/`](./02-Blog-Website/) • [`Frontend`](./02-Blog-Website/frontend/) • [`Backend`](./02-Blog-Website/backend/) |
+| 🏨 **Hotel Booking Platform** | [`03-Hotel-Booking-Platform/`](./03-Hotel-Booking-Platform/) • [`Frontend`](./03-Hotel-Booking-Platform/frontend/) • [`Backend`](./03-Hotel-Booking-Platform/backend/) |
+| 📘 **AssignmentHub** | [`04-AssignmentHub/`](./04-AssignmentHub/) • [`Frontend`](./04-AssignmentHub/frontend/) • [`Backend`](./04-AssignmentHub/backend/) |
+| 📚 **DSA Practice** | [`05-DSA-Practice/`](./05-DSA-Practice/) • [`Arrays`](./05-DSA-Practice/Arrays/) • [`Trees`](./05-DSA-Practice/Trees/) |
+| ☕ **Advanced Java** | [`06-Advanced-Java/`](./06-Advanced-Java/) • [`JDBC`](./06-Advanced-Java/JDBC/) • [`Servlets`](./06-Advanced-Java/Servlets/) |
+| 🗂️ **Product Management System** | [`07-Product-Management-System/`](./07-Product-Management-System/) • [`Backend`](./07-Product-Management-System/backend/) • [`Database`](./07-Product-Management-System/database/) |
+| 🌐 **Portfolio Website** | [`08-Portfolio/`](./08-Portfolio/) • [`Frontend`](./08-Portfolio/frontend/) • [`Deployment`](./08-Portfolio/deployment/) |
+
+</div>
+
+```json
+  }
+}
+```
+
+
+
 ## `$ ls -la skills/`
 
 ```
@@ -161,32 +191,7 @@ jeevan@github:~$ echo "Build New"
 ```
 
 
-## `$ cat projects.json`
 
-```json
-{
-  "projects": [
-```
-
-div align="center">
-
-| Project | Documentation |
-|:--------|:--------------|
-| 🏫 **No Due Project** | [`01-No-Due-Project/`](./01-No-Due-Project/) • [`Frontend`](./01-No-Due-Project/frontend/) • [`Backend`](./01-No-Due-Project/backend/) |
-| ✍️ **Blog Website** | [`02-Blog-Website/`](./02-Blog-Website/) • [`Frontend`](./02-Blog-Website/frontend/) • [`Backend`](./02-Blog-Website/backend/) |
-| 🏨 **Hotel Booking Platform** | [`03-Hotel-Booking-Platform/`](./03-Hotel-Booking-Platform/) • [`Frontend`](./03-Hotel-Booking-Platform/frontend/) • [`Backend`](./03-Hotel-Booking-Platform/backend/) |
-| 📘 **AssignmentHub** | [`04-AssignmentHub/`](./04-AssignmentHub/) • [`Frontend`](./04-AssignmentHub/frontend/) • [`Backend`](./04-AssignmentHub/backend/) |
-| 📚 **DSA Practice** | [`05-DSA-Practice/`](./05-DSA-Practice/) • [`Arrays`](./05-DSA-Practice/Arrays/) • [`Trees`](./05-DSA-Practice/Trees/) |
-| ☕ **Advanced Java** | [`06-Advanced-Java/`](./06-Advanced-Java/) • [`JDBC`](./06-Advanced-Java/JDBC/) • [`Servlets`](./06-Advanced-Java/Servlets/) |
-| 🗂️ **Product Management System** | [`07-Product-Management-System/`](./07-Product-Management-System/) • [`Backend`](./07-Product-Management-System/backend/) • [`Database`](./07-Product-Management-System/database/) |
-| 🌐 **Portfolio Website** | [`08-Portfolio/`](./08-Portfolio/) • [`Frontend`](./08-Portfolio/frontend/) • [`Deployment`](./08-Portfolio/deployment/) |
-
-</div>
-
-```json
-  }
-}
-```
 
 ---
 
