@@ -28,11 +28,14 @@
 
 </div>
 
+<img src="https://komarev.com/ghpvc/?username=harshitha-dbangeraa035&label=Profile%20Views&color=2575fc&style=for-the-badge" alt="profile views"/>
+<img src="https://img.shields.io/github/followers/harshitha-dbangeraa035?label=Followers&style=for-the-badge&color=6a11cb" alt="followers"/>
+
 ---
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500">
-</p>
+</p> -->
 
 
 ## 🐍 Contribution Snake
