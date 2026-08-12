@@ -28,9 +28,17 @@
 
 </div>
 
-<img src="https://komarev.com/ghpvc/?username=harshitha-dbangeraa035&label=Profile%20Views&color=2575fc&style=for-the-badge" alt="profile views"/>
-<img src="https://img.shields.io/github/followers/harshitha-dbangeraa035?label=Followers&style=for-the-badge&color=6a11cb" alt="followers"/>
+<div align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=jeevankumar812&label=Profile%20Views&color=2575fc&style=for-the-badge"
+    alt="Profile Views"
+  />
 
+  <img
+    src="https://img.shields.io/github/followers/jeevankumar812?label=Followers&style=for-the-badge&color=6a11cb"
+    alt="GitHub Followers"
+  />
+</div>
 ---
 
 <!-- <p align="center">
