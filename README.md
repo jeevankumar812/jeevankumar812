@@ -80,10 +80,11 @@
 
 <div align="center">
   <a href="https://leetcode.com/medal/?showImg=0&id=10395920&isLevel=false">
-    <img src="ACTUAL_BADGE_IMAGE_URL" width="180" alt="LeetCode 365 Days">
+    <img src="https://raw.githubusercontent.com/jeevankumar812/jeevankumar812/main/leetcode365.gif"
+         width="180"
+         alt="LeetCode 365 Days">
   </a>
 </div>
-
   [![LeetCode Stats](https://leetcard.jacoblin.cool/kjeevankumar08?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/kjeevankumar08/)
 
 ### 🧠 What drives me
