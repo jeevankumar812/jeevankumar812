@@ -55,11 +55,12 @@
 </p> -->
 
 
-## 🐍 Contribution Snake
+<!-- ## 🐍 Contribution Snake 
 
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/jeevankumar812/jeevankumar812/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 ![GitHub Contribution Grid Snake](https://raw.githubusercontent.com/jeevankumar812/jeevankumar812/output/github-contribution-grid-snake.svg#gh-light-mode-only)
 
+-->
 
 ## `$ whoami`
 
