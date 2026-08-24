@@ -1,4 +1,4 @@
-<div align="center">
+<!-- <div align="center">
 ```
 ╔══════════════════════════════════════════════════════════════════╗
 ║                                                                  ║
@@ -14,7 +14,7 @@
 ║              Jeevan  •  M E R N  •  D E V                        ║
 ╚══════════════════════════════════════════════════════════════════╝
 ```
-</div>
+</div> -->
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&duration=3000&pause=1000&color=00FF99&center=true&vCenter=true&width=850&lines=AI+%7C+LLMs+%7C+RAG;Full+Stack+Developer;System+Design+Enthusiast;DSA+Enthusiast;Building+Scalable+Applications" alt="Typing SVG" />
 
