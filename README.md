@@ -79,11 +79,9 @@
 ```
 
 <div align="center">
-
-<a href="https://leetcode.com/medal/?showImg=0&id=10395920&isLevel=false">
-  <img src="YOUR_BADGE_IMAGE_URL" width="150" alt="LeetCode 365 Days Badge">
-</a>
-
+  <a href="https://leetcode.com/medal/?showImg=0&id=10395920&isLevel=false">
+    <img src="ACTUAL_BADGE_IMAGE_URL" width="180" alt="LeetCode 365 Days">
+  </a>
 </div>
 
   [![LeetCode Stats](https://leetcard.jacoblin.cool/kjeevankumar08?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/kjeevankumar08/)
