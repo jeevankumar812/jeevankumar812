@@ -86,7 +86,7 @@
   </a>
 </div>
 
-  [![LeetCode Stats](https://leetcard.jacoblin.cool/kjeevankumar08?theme=dark&font=Fira%20Code&ext=contest)](https://leetcode.com/u/kjeevankumar08/)
+  
 
 ### 🧠 What drives me
 
